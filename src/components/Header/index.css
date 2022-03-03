@@ -1,0 +1,26 @@
+.header {
+  height: 64px;
+  width: 100%;
+}
+.logo-img1 {
+  height: 30px;
+  width: 30px;
+}
+
+.nav {
+  padding: 0 20px;
+  width: 100%;
+}
+
+.profile-theme {
+  width: 160px;
+}
+.popUpLight {
+  padding: 20px;
+  background-color: white;
+}
+
+.popUpBgDark {
+  padding: 20px;
+  background-color: white !important;
+}
